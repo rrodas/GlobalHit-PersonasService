@@ -1,2 +1,2 @@
 # GlobalHit-PersonasService
-Microservice build on DDD using .NetCore
+Microservice build on DDD using .NetCore Test
