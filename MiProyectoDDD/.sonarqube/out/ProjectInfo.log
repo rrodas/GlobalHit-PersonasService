@@ -1,0 +1,28 @@
+Product projects
+---------------------------------------
+/Users/user/Documents/MiProyecto/domain.entities/domain.entities.csproj
+/Users/user/Documents/MiProyecto/domain/domain.csproj
+/Users/user/Documents/MiProyecto/presentation/api/api.csproj
+/Users/user/Documents/MiProyecto/infraestructure/infraestructure.csproj
+/Users/user/Documents/MiProyecto/application/application.csproj
+
+
+Test projects
+---------------------------------------
+
+
+Invalid projects
+---------------------------------------
+{none}
+
+
+Skipped projects
+---------------------------------------
+{none}
+
+
+Excluded projects
+---------------------------------------
+{none}
+
+

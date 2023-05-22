@@ -1,0 +1,3 @@
+﻿/Users/user/Documents/MiProyecto/domain/domain.services/CountryService.cs
+/Users/user/Documents/MiProyecto/domain/domain.services/ICountryService.cs
+/Users/user/Documents/MiProyecto/domain/repositories.contracts/ICountryRepository.cs

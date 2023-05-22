@@ -1,0 +1,9 @@
+[
+R/Users/user/Documents/MiProyecto/presentation/api/Controllers/CountryController.csutf-8c
+Z/Users/user/Documents/MiProyecto/presentation/api/Controllers/WeatherForecastController.csutf-8E
+</Users/user/Documents/MiProyecto/presentation/api/Program.csutf-8E
+</Users/user/Documents/MiProyecto/presentation/api/Startup.csutf-8M
+D/Users/user/Documents/MiProyecto/presentation/api/WeatherForecast.csutf-8|
+q/Users/user/Documents/MiProyecto/presentation/api/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.csutf-8a
+V/Users/user/Documents/MiProyecto/presentation/api/obj/Debug/net7.0/api.AssemblyInfo.csutf-8t
+i/Users/user/Documents/MiProyecto/presentation/api/obj/Debug/net7.0/api.MvcApplicationPartsAssemblyInfo.csutf-8

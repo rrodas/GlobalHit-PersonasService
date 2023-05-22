@@ -1,0 +1,12 @@
+/Users/user/Documents/MiProyecto/domain.entities/bin/Debug/net7.0/domain.entities.deps.json
+/Users/user/Documents/MiProyecto/domain.entities/bin/Debug/net7.0/domain.entities.dll
+/Users/user/Documents/MiProyecto/domain.entities/bin/Debug/net7.0/domain.entities.pdb
+/Users/user/Documents/MiProyecto/domain.entities/obj/Debug/net7.0/domain.entities.csproj.AssemblyReference.cache
+/Users/user/Documents/MiProyecto/domain.entities/obj/Debug/net7.0/domain.entities.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Documents/MiProyecto/domain.entities/obj/Debug/net7.0/domain.entities.AssemblyInfoInputs.cache
+/Users/user/Documents/MiProyecto/domain.entities/obj/Debug/net7.0/domain.entities.AssemblyInfo.cs
+/Users/user/Documents/MiProyecto/domain.entities/obj/Debug/net7.0/domain.entities.csproj.CoreCompileInputs.cache
+/Users/user/Documents/MiProyecto/domain.entities/obj/Debug/net7.0/domain.entities.dll
+/Users/user/Documents/MiProyecto/domain.entities/obj/Debug/net7.0/refint/domain.entities.dll
+/Users/user/Documents/MiProyecto/domain.entities/obj/Debug/net7.0/domain.entities.pdb
+/Users/user/Documents/MiProyecto/domain.entities/obj/Debug/net7.0/ref/domain.entities.dll

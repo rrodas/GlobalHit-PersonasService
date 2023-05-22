@@ -1,0 +1,3 @@
+﻿/Users/user/Documents/MiProyecto/domain.entities/countries/City.cs
+/Users/user/Documents/MiProyecto/domain.entities/countries/ListCity.cs
+/Users/user/Documents/MiProyecto/domain.entities/countries/State.cs

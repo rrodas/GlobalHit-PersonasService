@@ -1,0 +1,11 @@
+﻿/Users/user/Documents/MiProyecto/infraestructure/CountryDBContext.cs
+/Users/user/Documents/MiProyecto/infraestructure/Migrations/20210307015727_CountryDB.cs
+/Users/user/Documents/MiProyecto/infraestructure/Migrations/20210307015727_CountryDB.Designer.cs
+/Users/user/Documents/MiProyecto/infraestructure/Migrations/20210307024139_CountryDB_2.cs
+/Users/user/Documents/MiProyecto/infraestructure/Migrations/20210307024139_CountryDB_2.Designer.cs
+/Users/user/Documents/MiProyecto/infraestructure/Migrations/20210307035616_CountryDB_3.cs
+/Users/user/Documents/MiProyecto/infraestructure/Migrations/20210307035616_CountryDB_3.Designer.cs
+/Users/user/Documents/MiProyecto/infraestructure/Migrations/20210307035649_CountryDB_4.cs
+/Users/user/Documents/MiProyecto/infraestructure/Migrations/20210307035649_CountryDB_4.Designer.cs
+/Users/user/Documents/MiProyecto/infraestructure/Migrations/CountryDBContextModelSnapshot.cs
+/Users/user/Documents/MiProyecto/infraestructure/repositories/CountryRepository.cs

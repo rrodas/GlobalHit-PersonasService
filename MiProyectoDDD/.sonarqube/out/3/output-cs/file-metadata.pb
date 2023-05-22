@@ -1,0 +1,14 @@
+M
+D/Users/user/Documents/MiProyecto/infraestructure/CountryDBContext.csutf-8`
+W/Users/user/Documents/MiProyecto/infraestructure/Migrations/20210307015727_CountryDB.csutf-8k
+`/Users/user/Documents/MiProyecto/infraestructure/Migrations/20210307015727_CountryDB.Designer.csutf-8b
+Y/Users/user/Documents/MiProyecto/infraestructure/Migrations/20210307024139_CountryDB_2.csutf-8m
+b/Users/user/Documents/MiProyecto/infraestructure/Migrations/20210307024139_CountryDB_2.Designer.csutf-8b
+Y/Users/user/Documents/MiProyecto/infraestructure/Migrations/20210307035616_CountryDB_3.csutf-8m
+b/Users/user/Documents/MiProyecto/infraestructure/Migrations/20210307035616_CountryDB_3.Designer.csutf-8b
+Y/Users/user/Documents/MiProyecto/infraestructure/Migrations/20210307035649_CountryDB_4.csutf-8m
+b/Users/user/Documents/MiProyecto/infraestructure/Migrations/20210307035649_CountryDB_4.Designer.csutf-8g
+\/Users/user/Documents/MiProyecto/infraestructure/Migrations/CountryDBContextModelSnapshot.csutf-8[
+R/Users/user/Documents/MiProyecto/infraestructure/repositories/CountryRepository.csutf-8l
+a/Users/user/Documents/MiProyecto/infraestructure/obj/Debug/net7.0/infraestructure.AssemblyInfo.csutf-8{
+p/Users/user/Documents/MiProyecto/infraestructure/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.csutf-8

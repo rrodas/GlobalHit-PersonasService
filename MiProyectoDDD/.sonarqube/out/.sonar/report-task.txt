@@ -1,0 +1,6 @@
+projectKey=MiProyecto
+serverUrl=http://localhost:9000
+serverVersion=10.0.0.68432
+dashboardUrl=http://localhost:9000/dashboard?id=MiProyecto
+ceTaskId=AYg7Yw68BoCn5S7H9jRs
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AYg7Yw68BoCn5S7H9jRs

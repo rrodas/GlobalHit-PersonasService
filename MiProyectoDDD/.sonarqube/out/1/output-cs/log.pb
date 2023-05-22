@@ -1,0 +1,1 @@
+Roslyn version: 4.6.0.0Language version: CSharp7_3!Concurrent execution: enabled˜“File '/Users/user/Documents/MiProyecto/domain/obj/Debug/netstandard2.0/.NETStandard,Version=v2.0.AssemblyAttributes.cs' was recognized as generated~zFile '/Users/user/Documents/MiProyecto/domain/obj/Debug/netstandard2.0/domain.AssemblyInfo.cs' was recognized as generated

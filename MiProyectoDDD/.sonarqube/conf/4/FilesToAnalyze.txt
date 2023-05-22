@@ -1,0 +1,11 @@
+﻿/Users/user/Documents/MiProyecto/presentation/api/Controllers/CountryController.cs
+/Users/user/Documents/MiProyecto/presentation/api/Controllers/WeatherForecastController.cs
+/Users/user/Documents/MiProyecto/presentation/api/Program.cs
+/Users/user/Documents/MiProyecto/presentation/api/Startup.cs
+/Users/user/Documents/MiProyecto/presentation/api/WeatherForecast.cs
+/Users/user/Documents/MiProyecto/presentation/api/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs
+/Users/user/Documents/MiProyecto/presentation/api/obj/Debug/net7.0/api.AssemblyInfo.cs
+/Users/user/Documents/MiProyecto/presentation/api/obj/Debug/net7.0/api.MvcApplicationPartsAssemblyInfo.cs
+/Users/user/Documents/MiProyecto/presentation/api/appsettings.Development.json
+/Users/user/Documents/MiProyecto/presentation/api/appsettings.json
+/Users/user/Documents/MiProyecto/presentation/api/Properties/launchSettings.json

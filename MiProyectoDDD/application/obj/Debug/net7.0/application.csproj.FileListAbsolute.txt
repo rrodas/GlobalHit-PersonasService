@@ -1,0 +1,17 @@
+/Users/user/Documents/MiProyecto/application/bin/Debug/net7.0/application.deps.json
+/Users/user/Documents/MiProyecto/application/bin/Debug/net7.0/application.dll
+/Users/user/Documents/MiProyecto/application/bin/Debug/net7.0/application.pdb
+/Users/user/Documents/MiProyecto/application/bin/Debug/net7.0/domain.dll
+/Users/user/Documents/MiProyecto/application/bin/Debug/net7.0/domain.entities.dll
+/Users/user/Documents/MiProyecto/application/bin/Debug/net7.0/domain.pdb
+/Users/user/Documents/MiProyecto/application/bin/Debug/net7.0/domain.entities.pdb
+/Users/user/Documents/MiProyecto/application/obj/Debug/net7.0/application.csproj.AssemblyReference.cache
+/Users/user/Documents/MiProyecto/application/obj/Debug/net7.0/application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Documents/MiProyecto/application/obj/Debug/net7.0/application.AssemblyInfoInputs.cache
+/Users/user/Documents/MiProyecto/application/obj/Debug/net7.0/application.AssemblyInfo.cs
+/Users/user/Documents/MiProyecto/application/obj/Debug/net7.0/application.csproj.CoreCompileInputs.cache
+/Users/user/Documents/MiProyecto/application/obj/Debug/net7.0/application.csproj.CopyComplete
+/Users/user/Documents/MiProyecto/application/obj/Debug/net7.0/application.dll
+/Users/user/Documents/MiProyecto/application/obj/Debug/net7.0/refint/application.dll
+/Users/user/Documents/MiProyecto/application/obj/Debug/net7.0/application.pdb
+/Users/user/Documents/MiProyecto/application/obj/Debug/net7.0/ref/application.dll
